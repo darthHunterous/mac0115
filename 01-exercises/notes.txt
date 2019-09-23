@@ -1,0 +1,50 @@
+-CONVERSAO DECIMAL PARA BINARIO;
+    -Divisões sucessivas por 2, tomando o resto e construindo no for
+    -Truque é fazer isso enquanto o número for diferente de zero
+    O for aumenta 10 a cada passo, para compor o proximo digito da base 2
+
+-PONTEIROS:
+    int* p -> p é um ponteiro para inteiro
+    *p = 43; -> o endereço para o qual p aponta recebe 43
+    p = &n; -> p recebe o endereço da variável n
+
+-CARACTER ASCII INTERESSANTES:
+    0 -> nulo
+    8 -> backspace
+    10 -> line feed
+    13 -> carriage return
+
+-SCANF CHARACTER:
+    char c;
+    scanf("%c", &c); -> lê qualquer caracter e armazena em c
+    scanf(" %c", &c); -> ignora espaços, tabs e enters
+
+-LER STRING:
+    char palavra[100];
+    -Terminado pelo caracter de código 0, '\0'
+    Ler:
+    scanf("%[^\n]", palavra);
+    -Lê até encontra um \n, armazenando caracter por caracter no vetor.
+Após isso, remove o \n e adiciona o \0 no final.
+    scanf("%s", palavra);
+        Para de ler no espaço
+    gets(palavra); -> não é seguro
+
+-IMPRIMIR STRING:
+    puts(palavra);
+    printf("%s", palavra);
+
+
+-DIFERENÇA STRING E VETOR DE CARACTERES:
+    -A string tem seu final indicado pelo caracter de código ASCII zero '\0'
+
+-BIBLIOTECA STRING.H:
+    int strlen(char s[]);
+    void strcpy(char s1[], char s2[]);
+
+-BUSCA BINÁRIA:
+    int buscaBin (int x, int tam, int v[]) {
+        int inicio = -1, meio, fim = tam;
+        while (inicio < tam - 1) {
+            meio = (inicio + fim)/
+    }
