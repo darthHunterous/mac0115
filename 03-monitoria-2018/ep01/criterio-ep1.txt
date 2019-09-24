@@ -1,0 +1,25 @@
+1) Compilação sem erros
+- OK
+
+2) Partes do EP
+a) Leitura da gravidade e posição do pokémon: 0.5
+b) Inicializações e controle das tentativas: 2.0
+c) Leitura da posição do treinador e de vy: 0.5
+d) Todas as saídas da simulação: 2.0
+e) Inicializações: 0.5
+f) Condições de parada: 2.0
+g) Atualização da simulação: 2.0
+h) Teste de acerto: 0.5
+
+3) Possíveis descontos
+a) Nome de variáveis
+b) Indentação
+- muitos problemas: 0.0
+c) Comentários
+d) Operadores, comandos ou definições não vistos em aula
+e) Recursos não vistos em aula
+f) Alertas e erros de Compilação
+
+4) Observações
+- Deixe a saída o mais parecida possível com os exemplos do enunciado.
+- Mais atenção com a indentação (quantidade de espaços, posição das chaves).

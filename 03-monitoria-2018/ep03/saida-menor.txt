@@ -1,0 +1,86 @@
+Insira a quantidade de pokébolas disponíveis: 2
+Insira a coordenada x do treinador: 7
+
+2 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+
+
+
+                                            0
+
+
+
+
+
+
+              T
+
+Insira a velocidade de lançamento: 15
+Insira o ângulo de lançamento: 35
+
+Representação gráfica aproximada do lançamento efetuado:
+                                                                      .
+                                                                .
+                                                          .
+                                                  .
+
+                                            .
+                                      .
+                                            0
+                                .
+
+                          .
+
+                    .
+
+              T
+
+O lançamento não capturou Pokémon algum
+
+Insira a coordenada x do treinador: 7
+
+1 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+
+
+
+                                            0
+
+
+
+
+
+
+              T
+
+Insira a velocidade de lançamento: 14
+Insira o ângulo de lançamento: 30
+
+Representação gráfica aproximada do lançamento efetuado:
+
+
+
+
+
+
+
+                                            .
+                                      .
+                                .
+
+                          .
+                    .
+
+              T
+
+Um Pidgey foi capturado!
+
+Parabéns! Todos Pokémons disponíveis foram capturados

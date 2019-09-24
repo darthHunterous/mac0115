@@ -1,0 +1,306 @@
+Insira a quantidade de pokébolas disponíveis: 5
+Insira a coordenada x do treinador: 40
+
+5 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+                                                                                                              1
+
+
+
+
+
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                       0 0 0
+              2 2 2 2 2                                                                                                       0 0 0
+              2 2 2 2 2                                                         T                                             0 0 0
+
+Insira a velocidade de lançamento: 8
+Insira o ângulo de lançamento: 30
+
+Representação gráfica aproximada do lançamento efetuado:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+                                                                                                              1
+
+
+
+
+
+              2 2 2 2 2                                                                             .   .   .   . .
+              2 2 2 2 2                                                                       .   .                   .   .
+              2 2 2 2 2                                                               .   .                                   . 0 0
+              2 2 2 2 2                                                             .                                         0 0 0
+              2 2 2 2 2                                                         T                                             0 0 0
+
+Um Nidoran foi capturado!
+
+4 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+                                                                                                              1
+
+
+
+
+
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                       T
+
+Insira a velocidade de lançamento: 13
+Insira o ângulo de lançamento: 125
+
+Representação gráfica aproximada do lançamento efetuado:
+              .                                                               .
+                                                                                  .
+          .                                                                         .
+      .
+  .                                                 3 3 3 3 3 3 3 3 3                   .
+                                                    3 3 3 3 3 3 3 3 3                       .
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3                           .
+                                                    3 3 3 3 3 3 3 3 3                               .
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3                                   .
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3                                       .
+
+                                                                                                              1 .
+
+
+                                                                                                                  .
+
+                                                                                                                      .
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                   .
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                       T
+
+O lançamento não capturou Pokémon algum
+
+Insira a coordenada x do treinador: 63
+
+3 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+                                                                                                              1
+
+
+
+
+
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                       T
+
+Insira a velocidade de lançamento: 11
+Insira o ângulo de lançamento: 125
+
+Representação gráfica aproximada do lançamento efetuado:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+                                                                                                              .
+
+                                                                                                                  .
+
+                                                                                                                    .
+
+              2 2 2 2 2                                                                                                 .
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                   .
+              2 2 2 2 2
+              2 2 2 2 2                                                                                                       T
+
+Um Pidgey foi capturado!
+
+2 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+
+
+
+
+
+
+
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                                                                       T
+
+Insira a velocidade de lançamento: 12
+Insira o ângulo de lançamento: 135
+
+Representação gráfica aproximada do lançamento efetuado:
+
+
+
+
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 3
+                                                    3 3 3 3 3 3 3 3 .
+                                                    3 3 3 3 3 3 3 3 3   .
+                                                    3 3 3 3 3 3 3 3 3       .
+                                                    3 3 3 3 3 3 3 3 3           .
+
+                                                                                    .
+                                                                                        .
+
+                                                                                              .
+                                                                                                  .
+
+              2 2 2 2 2                                                                               .
+              2 2 2 2 2
+              2 2 2 2 2                                                                                   .
+              2 2 2 2 2
+              2 2 2 2 2                                                                                       T
+
+Um Rayquaza foi capturado!
+
+1 pokébolas disponíveis
+Estado atual do mundo com Pokémons:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2
+              2 2 2 2 2                                             T
+
+Insira a velocidade de lançamento: 8
+Insira o ângulo de lançamento: 150
+
+Representação gráfica aproximada do lançamento efetuado:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              2 2 2 2 2           . .   .   .   .
+              2 2 2 2 2   .   .                   .   .
+              2 2 2 2 .                                   .   .
+              2 2 2 2 2                                         .
+              2 2 2 2 2                                             T
+
+Um Quilava foi capturado!
+
+Parabéns! Todos Pokémons disponíveis foram capturados
